@@ -17,25 +17,25 @@
 
 ## 💻 Technical Skills
 
-**Languages**: Java, Python, C, C++, PHP, HTML/CSS  
-**Databases**: MySQL, MongoDB  
-**Mobile Development**: Flutter, Android (Java, XML)  
-**Tools & Technologies**: Android Studio, Firebase, Git, GitHub
+• **Languages**: Java • Python • C • C++ • PHP • HTML/CSS  
+• **Databases**: MySQL • MongoDB  
+• **Mobile Development**: Flutter • Android (Java, XML)  
+• **Tools & Technologies**: Android Studio • Firebase • Git • GitHub
 
 ## 🏅 Achievements
-• 🏆 Awarded the Kiran Girls Scholarship by Persistent Foundation for academic excellence and commitment to growth
-• 📖 Two poems published in PVG’s COET College Magazine Agaz:
-     – "Pratkalā kē bhīn āsavī"
-     – "Mahārāj tumchyā nāsṇyānē"
-• 🏃‍♀️ Runner-up in Athletics @ PVG’s COET
-• 🏸 Participant in Badminton @ Ransangram Sports Event
-• 🙋‍♀️ Active Volunteer – National Service Scheme (NSS)
+• 🏆 Awarded the Kiran Girls Scholarship by Persistent Foundation for academic excellence and commitment to growth  
+• 📖 Two poems published in PVG’s COET College Magazine:  
+     • Pratyekala Ek Bahin Asavi
+     • Maharaj Tumchya Nasnyane
+• 🏃‍♀️ Runner-up in Athletics @ PVG’s COET  
+• 🏸 Participant in Badminton @ Ransangram Sports Event  
+• 🙋‍♀️ Active Volunteer – National Service Scheme (NSS)  
 
 ## 🔗 Connect with Me
 
-📧 Email: amrutabkadam0@gmail.com
-💼 LinkedIn: linkedin.com/in/kadamamruta1810
-💻 GitHub: github.com/amrutacoder
+📧 Email: amrutabkadam0@gmail.com  
+💼 LinkedIn: linkedin.com/in/kadamamruta1810  
+💻 GitHub: github.com/amrutacoder  
 <!--
 
 **amrutacoder/amrutacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
