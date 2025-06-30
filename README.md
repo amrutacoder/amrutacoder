@@ -2,8 +2,6 @@
 
 🎓 B.E. (IT) Student @ PVG’s COET, Pune | 💻 Flutter Developer | 🌱 Tech Enthusiast | 🎯 Kiran Scholar (Persistent Foundation)
 
-## 🌟 Welcome to my GitHub profile! I’m a tech enthusiast and aspiring developer passionate about learning and working with Flutter, Firebase, and other modern tools. Here you'll find more about my skills, achievements, and learning journey in tech.
-
 
 ## 👩‍💻 About Me
 
