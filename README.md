@@ -34,8 +34,8 @@
 ## 🔗 Connect with Me
 
 📧 Email: amrutabkadam0@gmail.com  
-💼 LinkedIn: linkedin.com/in/kadamamruta1810  
-💻 GitHub: github.com/amrutacoder  
+💼 LinkedIn: [linkedin.com/in/kadamamruta1810](https://www.linkedin.com/in/kadamamruta1810)  
+💻 GitHub: [github.com/amrutacoder](https://github.com/amrutacoder)
 <!--
 
 **amrutacoder/amrutacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
