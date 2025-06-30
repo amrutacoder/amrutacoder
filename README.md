@@ -19,7 +19,7 @@
 
 • **Languages**: Java • Python • C • C++ • PHP • HTML/CSS  
 • **Databases**: MySQL • MongoDB  
-• **Mobile Development**: Flutter • Android
+• **Mobile Development**: Flutter • Android  
 • **Tools & Technologies**: Android Studio • Firebase • Git • GitHub
 
 ## 🏅 Achievements
