@@ -25,8 +25,8 @@
 ## 🏅 Achievements
 • 🏆 Awarded the Kiran Girls Scholarship by Persistent Foundation for academic excellence and commitment to growth  
 • 📖 Two poems published in PVG’s COET College Magazine:  
-        • Pratyekala Ek Bahin Asavi
-        • Maharaj Tumchya Nasnyane  
+        -Pratyekala Ek Bahin Asavi
+        -Maharaj Tumchya Nasnyane  
 • 🏃‍♀️ Runner-up in Athletics @ PVG’s COET  
 • 🏸 Participant in Badminton @ Ransangram Sports Event  
 • 🙋‍♀️ Active Volunteer – National Service Scheme (NSS)  
