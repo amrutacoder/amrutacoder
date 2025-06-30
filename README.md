@@ -7,7 +7,7 @@
 • 📚 Currently pursuing B.E. in Information Technology at PVG’s COET, Pune  
 • 🎓 Diploma in Computer Engineering from Government Polytechnic, Ahmednagar – 90.17%  
 • 💡 Passionate about software development, especially in mobile and web technologies  
-• 🌟 Awarded the **Kiran Girls Scholarship** by Persistent Foundation 
+• 🌟 Awarded the **Kiran Girls Scholarship** by Persistent Foundation  
 • 🚀 Currently learning and building projects using **Flutter, Firebase**
 
 ## 💼 Experience
@@ -26,7 +26,7 @@
 • 🏆 Awarded the Kiran Girls Scholarship by Persistent Foundation for academic excellence and commitment to growth  
 • 📖 Two poems published in PVG’s COET College Magazine:  
      • Pratyekala Ek Bahin Asavi
-     • Maharaj Tumchya Nasnyane
+     • Maharaj Tumchya Nasnyane  
 • 🏃‍♀️ Runner-up in Athletics @ PVG’s COET  
 • 🏸 Participant in Badminton @ Ransangram Sports Event  
 • 🙋‍♀️ Active Volunteer – National Service Scheme (NSS)  
