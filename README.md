@@ -1,15 +1,14 @@
 # Hi there! 👋 I'm Amruta Kadam
 
-🎓 B.E. (IT) Student @ PVG’s COET, Pune | 💻 Flutter Developer | 🌱 Tech Enthusiast | 🎯 Kiran Scholar (Persistent Foundation)
+🎓 B.E. (IT) Student @ PVG’s COET, Pune | 💻 Software Developer | 🌱 Tech Enthusiast | 🎯 Kiran Scholar (Persistent Foundation)
 
 
 ## 👩‍💻 About Me
 
-• 📚 Currently pursuing B.E. in Information Technology at PVG’s COET, Pune  
+• 📚 Currently pursuing B.E. in Information Technology at PVG’s COET, Pune - 9.70 SGPA  
 • 🎓 Diploma in Computer Engineering from Government Polytechnic, Ahmednagar – 90.17%  
 • 💡 Passionate about software development, especially in mobile and web technologies  
 • 🌟 Awarded the **Kiran Girls Scholarship** by Persistent Foundation  
-• 🚀 Currently learning and building projects using **Flutter, Firebase**
 
 ## 💼 Experience
 
