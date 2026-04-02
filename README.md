@@ -25,7 +25,9 @@
 
 ## 🏅 Achievements
 • 🏆 Awarded the Kiran Girls Scholarship by Persistent Foundation for academic excellence and commitment to growth
+
 • 📄 Presented a survey paper on AI-Based Driving Systems for Neurodivergent Individuals at ICSIAIML 2025, co-hosted with WUST, published by Atlantis Press (Springer Nature). 
+
 • 📖 Two poems published in PVG’s COET College Magazine:  
     -Pratyekala Ek Bahin Asavi  
     -Maharaj Tumchya Nasnyane  
