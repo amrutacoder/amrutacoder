@@ -36,7 +36,7 @@
 
 ## 🔗 Connect with Me
 
-📧 Email: amrutabkadam0@gmail.com  
+📧 Email: amrutabkadam18@gmail.com  
 💼 LinkedIn: [linkedin.com/in/kadamamruta1810](https://www.linkedin.com/in/kadamamruta01) 
 💻 GitHub: [github.com/amrutacoder](https://github.com/amrutacoder)
 <!--
