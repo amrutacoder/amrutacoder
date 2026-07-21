@@ -9,8 +9,10 @@
 
 • 🎓 B.E. in Information Technology from PVG's COET, Pune - 9.51 CGPA  
 • 🎓 Diploma in Computer Engineering from Government Polytechnic, Ahmednagar – 90.17
+
 • 💻 Passionate Software Developer with an interest in AI, Mobile, and Full Stack Development  
 • 🤖 Enthusiastic about building AI-powered solutions for real-world problems
+
 • 🌟 Awarded the **Kiran Girls Scholarship** by Persistent Foundation  
 
 ## 💼 Experience
@@ -51,6 +53,7 @@
 
 📧 Email: amrutabkadam18@gmail.com  
 💼 LinkedIn: [linkedin.com/in/kadamamruta01](https://www.linkedin.com/in/kadamamruta01) 
+
 💻 GitHub: [github.com/amrutacoder](https://github.com/amrutacoder)
 <!--
 
