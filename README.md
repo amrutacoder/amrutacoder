@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Amruta Kadam
 
 💻 Software Developer | AI Enthusiast | Flutter Developer | Tech Explorer
+
 🏆 Kiran Girls Scholar (Persistent Foundation) • 🥇 Final Year Project Competition Winner • 📄 Springer Publication
 
 
