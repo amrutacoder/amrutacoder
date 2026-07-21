@@ -7,13 +7,15 @@
 
 ## 👩‍💻 About Me
 
-• 🎓 B.E. in Information Technology from PVG's COET, Pune - 9.51 CGPA  
-• 🎓 Diploma in Computer Engineering from Government Polytechnic, Ahmednagar – 90.17
+• 🎓 B.E. in Information Technology from PVG's COET, Pune – 9.51 CGPA
 
-• 💻 Passionate Software Developer with an interest in AI, Mobile, and Full Stack Development  
+• 🎓 Diploma in Computer Engineering from Government Polytechnic, Ahmednagar – 90.17%
+
+• 💻 Passionate Software Developer with an interest in AI, Mobile, and Full Stack Development
+
 • 🤖 Enthusiastic about building AI-powered solutions for real-world problems
 
-• 🌟 Awarded the **Kiran Girls Scholarship** by Persistent Foundation  
+• 🏆 Awarded the Kiran Girls Scholarship by Persistent Foundation 
 
 ## 💼 Experience
 
