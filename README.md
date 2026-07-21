@@ -19,7 +19,7 @@
 
 ## 💼 Experience
 
-👩‍💻 **Flutter Developer Intern** @ *Kshetrapati Pvt. Ltd*  
+👩‍💻 **Software Engineer Intern** @ *Kshetrapati Pvt. Ltd*  
 • Built user + admin apps for managing categories, users, and orders using Firebase Firestore and Authentication
 
 ## 💻 Technical Skills
