@@ -36,26 +36,28 @@
 
 ## 🏅 Achievements
 
-• 🏆 Awarded the **Kiran Girls Scholarship** by Persistent Foundation for academic excellence and commitment to professional development.
+• 🏆 Awarded the **Kiran Girls Scholarship** by **Persistent Foundation** for academic excellence and professional development.
 
-• 🥇 Won **1st Prize** in the Final Year Project Competition at **PVG's COET, Pune** for the project *"AI-Driven Driving Assistant for Neurodivergent Individuals"* among **70+ student participants**.
+• 🥇 Won **1st Prize** in the **Final Year Project Competition** at **PVG's COET, Pune** for the project **"AI-Driven Driving Assistant for Neurodivergent Individuals"** among **70+ student participants**.
 
-• 📄 Presented a survey paper on **AI-Driven Driving Systems for Neurodivergent Individuals** at **ICSIAIML 2025**, co-hosted with **WUST**, and published by **Atlantis Press (Springer Nature)**.
+• 📄 Presented a research paper on **"AI-Driven Driving Systems for Neurodivergent Individuals"** at **ICSIAIML 2025**, co-hosted with **WUST**, and published by **Atlantis Press (Springer Nature)**.
 
-• 🥉 Secured **3rd Prize** in the **Ideathon** for the project *"AI-Driven Driving System for Neurodivergent Individuals"*, organized by **PVGCOET ACM Student Chapter**.
+• 🥉 Secured **3rd Prize** in the **Ideathon** for the project **"AI-Driven Driving System for Neurodivergent Individuals"**, organized by **PVGCOET ACM Student Chapter**.
 
-• 📖 Two poems published in PVG’s COET College Magazine:  
-    -Pratyekala Ek Bahin Asavi  
-    -Maharaj Tumchya Nasnyane  
-• 🏃‍♀️ Runner-up in Athletics @ PVG’s COET  
-• 🏸 Participant in Badminton @ Ransangram Sports Event  
-• 🙋‍♀️ Active Volunteer – National Service Scheme (NSS)  
+• 📖 Published two Marathi poems in the **PVG's COET College Magazine**:
+  - *Pratyekala Ek Bahin Asavi*
+  - *Maharaj Tumchya Nasnyane*
+
+• 🏃‍♀️ **Runner-up** in **Athletics** at **PVG's COET**.
+
+• 🏸 Participated in the **Ransangram Badminton Tournament**.
+
+• 🙋‍♀️ Active **National Service Scheme (NSS)** Volunteer.
 
 ## 🔗 Connect with Me
 
 📧 Email: amrutabkadam18@gmail.com  
 💼 LinkedIn: [linkedin.com/in/kadamamruta01](https://www.linkedin.com/in/kadamamruta01) 
-
 💻 GitHub: [github.com/amrutacoder](https://github.com/amrutacoder)
 <!--
 
